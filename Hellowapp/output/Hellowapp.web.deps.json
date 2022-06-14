@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hellowapp.web/1.0.0": {
+        "runtime": {
+          "Hellowapp.web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hellowapp.web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
